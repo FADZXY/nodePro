@@ -1,0 +1,4 @@
+Here is the result : Hello this is first textfile
+and i am an external sentence
+ , Hello this is second textfile
+    hello this is fady the secondhello this is fady the secondhello this is fady the secondhello this is fady the secondhello this is fady the second

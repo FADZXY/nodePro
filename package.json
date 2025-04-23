@@ -1,0 +1,1 @@
+{"name":"tutorial","version":"1.0.0","main":"1-intro.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"","license":"ISC","description":"","dependencies":{"bootstrap":"^5.3.5","lodash":"^4.17.21"}}

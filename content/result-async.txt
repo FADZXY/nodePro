@@ -1,0 +1,3 @@
+the result is : Hello this is first textfile
+and i am an external sentence
+ , undefined
